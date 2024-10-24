@@ -1,5 +1,5 @@
-* = Question
-- = Answer
+ * = Question
+ - = Answer
 
 *Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
 
