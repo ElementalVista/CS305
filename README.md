@@ -1,10 +1,7 @@
-
-
-
+ 
+*Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
 * = Question
 - = Answer
-  
-*Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
 
 -Artemis Financial is a financial company that needed more secure ways to transfer data between their clients and servers, and they wanted help fixing security problems in their system.
 
